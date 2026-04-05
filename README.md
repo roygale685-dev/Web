@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Roy Gale Motors | Premium BMW Inventory</title>
+    <title>ROYGALE Motors | Premium BMW Inventory</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
     <style>
         /* CSS VARIABLES & RESET */
@@ -138,7 +138,7 @@
 <body>
 
     <header>
-        <div class="logo">RoyGale<span>MOTORS</span></div>
+        <div class="logo">ROYGALE<span>MOTORS</span></div>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -267,7 +267,7 @@
     <footer>
         <div class="footer-grid">
             <div class="footer-col">
-                <h3>Bavarian Motors</h3>
+                <h3>ROYGALE Motors</h3>
                 <p>123 Performance Drive</p>
                 <p>Apia, Samoa</p>
                 <p>Sales: (555) 123-4567</p>
@@ -286,7 +286,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            &copy; 2026 Bavarian Motors. All Rights Reserved. "BMW" and the BMW logo are registered trademarks of BMW AG.
+            &copy; 2026 ROYGALE Motors. All Rights Reserved. "BMW" and the BMW logo are registered trademarks of BMW AG.
         </div>
     </footer>
 
