@@ -138,7 +138,7 @@
 <body>
 
     <header>
-        <div class="logo">BAVARIAN<span>MOTORS</span></div>
+        <div class="logo">RoyGale<span>MOTORS</span></div>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
